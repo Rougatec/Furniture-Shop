@@ -1,0 +1,18 @@
+$minWidth: 320px;
+$maxWidth: 1440;
+$maxWidthContainer: 1270;
+$md1: $maxWidthContainer + 12;
+$md2: 991.98;
+$md3: 767.98;
+$md4: 479.98;
+
+$maincolor: #3a3a3a;
+$orange: #e89f71;
+$gray: #898989;
+$darkgrey: #616161;
+
+._container {
+    max-width: $maxWidthContainer + px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
